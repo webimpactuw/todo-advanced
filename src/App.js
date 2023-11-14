@@ -1,24 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+// TODO: what do we import here?
 
 function App() {
+  // TODO: what state variables do we need to store?
+
+  
+  // TODO: how do we fetch some pre-existing to-do items to load into our list on page load?
+
+
+  // TODO: what methods do we need to run?
+  
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      {/* TODO: what do we need to output? */}
+    </>
   );
 }
 
